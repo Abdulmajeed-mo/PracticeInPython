@@ -19,9 +19,9 @@ if total >200 :
 
    
 else :
-     
-    print (f" Total before discount :  ")
+    discount_off= total* 0
+    print (f" Total before discount : {discount_off} ")
     print (f" Total :  {total}")
-    print (f" Total after discount :  ")
+    print (f" Total after discount : {discount_off} ")
 
 
